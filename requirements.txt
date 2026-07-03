@@ -3,4 +3,4 @@ numpy
 pandas
 joblib
 scikit-learn
-tensorflow-cpu==2.16.2
+onnxruntime
