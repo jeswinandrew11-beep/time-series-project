@@ -8,6 +8,8 @@ An end-to-end Time Series Sales Forecasting web application designed to predict 
 
 **[🔴 Live Demo](https://timeseriesannproject.streamlit.app/)** | **[GitHub Repository](https://github.com/jeswinandrew11-beep/time-series-project)**
 
+### App Walkthrough
+<video src="Sales Predictor · Streamlit - Google Chrome 2026-07-06 17-56-06.mp4" width="100%" controls></video>
 ---
 
 ## Dataset
